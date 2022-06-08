@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DustinKattner
 - 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning Computer Networking and iOS Development
-- 💞️ I’m looking to collaborate on anything in C++, Python, HTML, CSS, JavaScript, or SQL
+- 🌱 I’m currently learning: 1) Web Development with Angular, Node.js, Express, and Google Cloud; 2) iOS Development using Swift, SwiftUI, UIKit
+- 💞️ I’m looking to collaborate on Mobile and Web Applications
 - 📫 How to reach me dustinkattner@gmail.com
 
 <!---
